@@ -1,0 +1,4818 @@
+{
+  "items": [
+    {
+        "id": "190585",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目整体管理是项目管理中一项综合性和全局性的管理工作，项目整体包括（） 。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191133",
+                "item_id": "190585",
+                "stem": "项目整体管理是项目管理中一项综合性和全局性的管理工作，项目整体包括（） 。",
+                "seq": 1,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "制定项目章程、识别干系人、制定项目管理计划、指导和管理项目工作"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "制定项目可行性研究报告、制定项目管理计划、指导和管理项目工作、监控项目工作、实施整体变更控制"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": " 制定项目章程、制定项目管理计划、指导和管理项目工作、监控项目工作、实施整体变更控制"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "制定项目可行性研究报告、识别干系人、监控项目工作、实施整体变更控制"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "<p>项目整体管理的过程包括： 制定项目章程（启动）、制定项目管理计划（计划）、指导和管理项目执行（执行）、监督和控制项目工作（控制）、实施整体变更控制（控制）、结束项目和阶段（收尾）</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "1",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190586",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于项目整体管理的描述，不正确的是（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191134",
+                "item_id": "190586",
+                "stem": "关于项目整体管理的描述，不正确的是（）。",
+                "seq": 2,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "整体管理是一项综合性和全面性工作"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "整体管理涉及相互竞争的项目各分目标之间的集成"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "项目经理通过干系人的汇报获取项目需求"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "整体管理最终是为了实现项目目标的综合最优"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "<p>整合者是项目经理承担的重要角色之一，他要通过沟通来协调，通过协调来整合。作为整合者，项目经理必须从宏观视角来审视项目。<br />\n作为整合者，项目经理必须：<br />\n(1)通过与项目干系人主动、全面的沟通，来了解他们对项目的需求。<br />\n(2)在相互竞争的众多干系人之间寻找平衡点。<br />\n(3)通过认真、细致的协调工作，来达到各种需求间的平衡，实现整合。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "2",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190587",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "以下关于工作说明书（SOW）的叙述中，不正确的是（）",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191135",
+                "item_id": "190587",
+                "stem": "以下关于工作说明书（SOW）的叙述中，不正确的是（）",
+                "seq": 3,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": " SOW 的内容主要包括服务范围、方法、假定、工作量、变更管理等"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": " 内部的 SOW 有时可称为任务书"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": " SOW 的变更应由项目变更控制过程进行管理"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": " SOW 通过明确项目应该完成的工作来确定项目范围"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "工作说明书（SOW）是对项目所要提供的产品、成果或服务的描述。对内部项目言，项目发起者或投资人基于业务需要、产品或服务的需求提出工作说明书。内部的工作说明书有时也叫任务书。工作说明书包括的主要内容有前言、服务范围、方法、假定、服务期限和工作量估计、双方角色和责任、交付资料、完成标准、顾问组人员、收费和付款方式、变更管理等。<br />工作说明书与项目范围说明书的区别：工作说明书是对项目所要提供的产品或服务的叙述性的描述；项目范围说明书则通过明确项目应该完成的工作来确定项目的范围。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "3",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190588",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（） 不是制定项目章程的输入。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191136",
+                "item_id": "190588",
+                "stem": "（） 不是制定项目章程的输入。",
+                "seq": 4,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "项目工作说明书"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "商业论证"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "合同或谅解备忘录等协议"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "项目成功标准"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p>制定项目章程的输入包括：1、协议（合同、备忘录、意向书及协议等）；2、项目工作说明书；3、商业论证；4、组织过程资产；5、事业环境因素。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "4",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190589",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">引导技术是指团队领导者诱发团队成员积极参与团队活动的方法，来帮助团队和个人完成相关项目活动。</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">（</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\">    <font face=\"微软雅黑\">）</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">一般不作为引导技术在项目中的应用。</font></span></span></span></span></p>\n",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191137",
+                "item_id": "190589",
+                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">引导技术是指团队领导者诱发团队成员积极参与团队活动的方法，来帮助团队和个人完成相关项目活动。</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">（</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\">    <font face=\"微软雅黑\">）</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">一般不作为引导技术在项目中的应用。</font></span></span></span></span></p>\n",
+                "seq": 5,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">专家判断</font></span></span></span></span></p>\n"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">头脑风暴</font></span></span></span></span></p>\n"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">冲突处理</font></span></span></span></span></p>\n"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">会议管理</font></span></span></span></span></p>\n"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">引导技术广泛应用于各项目管理过程，可用于指导项目章程的制定。头脑风暴、冲突处理、问题解决和会议管理等，都是引导者可以用来帮助团队和个人完成项目活动的关键技术。</font></span></span></span></span></p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "5",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190590",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目章程的作用中,不包括:（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191138",
+                "item_id": "190590",
+                "stem": "项目章程的作用中,不包括:（）。",
+                "seq": 6,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "为项目人员绩效考核提供依据",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "确定项目经理,规定项目经理的权力",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "规定项目的总体目标",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "正式确认项目的存在",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "项目章程的作用：正式宣布项目的存在，对项目的开始实施赋予合法地位；粗略地规定项目的范围；正式任命项目经理，授权其使用组织的资源开展项目活动",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "6",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190591",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"line-height:150%;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">以下关于项目章程的叙述中，不正确的是：</font>（）。</span></span></span></span></span></p>\n",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191139",
+                "item_id": "190591",
+                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"line-height:150%;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">以下关于项目章程的叙述中，不正确的是：</font>（）。</span></span></span></span></span></p>\n",
+                "seq": 7,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"line-height:150%;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">项目章程描述了项目发起人或其他批准项目章程的人员姓名和职权</font></span></span></span></span></span></p>\n"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"line-height:150%;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">项目章程规定了项目的总体目标，包括范围、时间、成本和质量等</font></span></span></span></span></span></p>\n"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"line-height:150%;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">项目章程由项目发起人签字</font></span></span></span></span></span></p>\n"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"line-height:150%;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">项目经理有权修改项目章程</font></span></span></span></span></span></p>\n"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"line-height:150%;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">由发起人编制和确定，项目经理可以参与项目章程的编制。</font></span></span></span></span></span></p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "7",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190592",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": " （  ）不属于项目章程的内容。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191140",
+                "item_id": "190592",
+                "stem": " （  ）不属于项目章程的内容。",
+                "seq": 8,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目工作说明书",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目的主要风险, 如项目的主要风险类别",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "里程碑进度计划",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "可测量的项目目标和相关的成功标准",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "A是项目章程的输入。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "8",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190593",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目章程的主要内容包括（）<br />①项目目的或批准项目的理由<br />②项目的主要风险<br />③项目的总体预算<br />④项目总体里程碑进度计划<br />⑤项目范围说明书<br />⑥项目成本基准",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191141",
+                "item_id": "190593",
+                "stem": "项目章程的主要内容包括（）<br />①项目目的或批准项目的理由<br />②项目的主要风险<br />③项目的总体预算<br />④项目总体里程碑进度计划<br />⑤项目范围说明书<br />⑥项目成本基准",
+                "seq": 9,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "①②③⑥"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "①②③④"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "①③④⑤"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "①④⑤⑥"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "<p>项目章程主要内容包括： 概括性的项目描述和项目产品描述。 项目目的或批准项目的理由，即为什么要做这个项目项目的总体要求，包括项目的总体范围和总体质量要求。 可测量的项目目标和相关成功标准。 项目的主要风险，如项目的主要风险类别。 总体里程碑进度计划。 总体预算。<br />\n项目的审批要求，即在项目的规划、执行、监控和收尾过程中，应该由谁来做出哪种批准。<br />\n委派的项目经理及其职责和职权。 发起人或其他批准项目章程人员的姓名和职权。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "9",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190594",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目章程的内容不包括（   ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191142",
+                "item_id": "190594",
+                "stem": "项目章程的内容不包括（   ）。",
+                "seq": 10,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "项目的总体质量要求"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "项目的成功标准"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "项目范围管理计划"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "项目的审批要求"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "<p>制定项目章程的输出。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "10",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190595",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（ ）不属于项目章程的作用。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191143",
+                "item_id": "190595",
+                "stem": "（ ）不属于项目章程的作用。",
+                "seq": 11,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "明确项目的人员要求及考核指标"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "正式确认项目存在，给项目一个合法的地位"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "规定项目的总体目标，包括范围、时间、成本和质量等"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "确定项目经理，规定项目经的权力"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "<p>细节的都不是项目章程的内容。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "11",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190596",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（ ）不属于项目章程的作用。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191144",
+                "item_id": "190596",
+                "stem": "（ ）不属于项目章程的作用。",
+                "seq": 12,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "确定项目经理，明确项目经理的权力"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "正式确认项目的存在，给项目一个合法的地位"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "规定项目总体目标，包括范围、时间、质量等"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "指导项目的执行，监控和收尾工作"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p>项目章程的作用：<br />\n确定项目经理，规定项目经理的权力。<br />\n正式确认项目的存在，给项目一个合法地位。<br />\n规定项目的总体目标，包括范围、时间、成本和质量等。<br />\n通过叙述启动项目的理由，把项目与执行组织的日常经营运作及战略规划等联系起来。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "12",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190597",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目章程中规定的项目审批要求和（），会影响项目的进度管理。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191145",
+                "item_id": "190597",
+                "stem": "项目章程中规定的项目审批要求和（），会影响项目的进度管理。",
+                "seq": 13,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "总体里程碑要求",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "范围基准",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "风险清单",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "成本基准",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "只有A是项目章程的内容。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "13",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190598",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于项目章程的描述，不正确的是（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191146",
+                "item_id": "190598",
+                "stem": "关于项目章程的描述，不正确的是（）。",
+                "seq": 14,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "项目章程规定项目经理的权力"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "项目章程由项目经理来发布"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "项目章程规定项目的总体目标"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "只有管理层和发起人有权对项目章程进行变更"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "<p>通常由高级管理层签发项目章程，并分发给与项目有关的所有组织、部门和人员。项目章程用来体现高级管理层对项目的原则性要求，授权项目经理为实施项目而动用组织资源。项目章程是项目经理寻求各主要干系人支持的依据。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "14",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190599",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目章程内容不包括（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191147",
+                "item_id": "190599",
+                "stem": "项目章程内容不包括（  ）。",
+                "seq": 15,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "任命项目经理"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "组建项目团队"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "项目总体要求"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "项目总体预算"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "<p>项目章程的内容：<br />\n（1）项目目的或批准项目的原因<br />\n（2）可测量的项目目标和相关的成功标准<br />\n（3）项目的总体要求（包括总体范围和总体质量要求）<br />\n（4）概括性的项目描述和项目产品描述<br />\n（5）项目的主要风险<br />\n（6）总体里程碑进度计划<br />\n（7）总体预算（概算）<br />\n（8）项目审批要求（用什么标准评价项目成功，由谁对项目成功下结论，由谁来签署项目结束）<br />\n（9）委派的项目经理及其职责和职权<br />\n（10）发起人或其他批准项目章程的人员的姓名和职权</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "15",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190600",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（  ）is a process of developing a document that formally authorizes the existence of a project and provides the project manager with the authority to apply organizational resources to project activities。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191148",
+                "item_id": "190600",
+                "stem": "（  ）is a process of developing a document that formally authorizes the existence of a project and provides the project manager with the authority to apply organizational resources to project activities。",
+                "seq": 16,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "Develop Project Charter",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "Manage Project Knowledge",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": " Monitor and Control Project Work",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "Close Project",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "（  ）是开发正式授权项目存在并向项目经理提供将组织资源应用于项目活动的文件的过程。A、制定项目章程B、管理项目知识C、监控项目工作D、关闭项目",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "16",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190601",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "以下关于项目管理计划的叙述中，不正确的是（   ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191149",
+                "item_id": "190601",
+                "stem": "以下关于项目管理计划的叙述中，不正确的是（   ）。",
+                "seq": 17,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目管理计划最重要的用途是指导项目执行、监控和收尾",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目管理计划是自上而下制订出来的",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目管理计划集成了项目中其他规划过程的成果",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "制订项目管理计划过程会促进与项目干系入之间的沟通",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "项目管理计划是上下结合制订的。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "17",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190602",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "为项目选择特定的生命周期模型-般是（）中的工作。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191150",
+                "item_id": "190602",
+                "stem": "为项目选择特定的生命周期模型-般是（）中的工作。",
+                "seq": 18,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目管理计划编制",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目章程",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目任务书",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "质量计划编制",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "项目管理计划的内容包括：项目所选用的生命周期及各阶段采用的过程",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "18",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190603",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目管理计划是说明项目将如何执行、监督和控制的文件。以下选项中，（ ）不属于项目管理计划的内容.",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191151",
+                "item_id": "190603",
+                "stem": "项目管理计划是说明项目将如何执行、监督和控制的文件。以下选项中，（ ）不属于项目管理计划的内容.",
+                "seq": 19,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "干系人登记册"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "为项目选择的生命周期模型"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "如何监督和控制变更"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "所使用的项目管理过程"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "<p>项目管理计划包括的内容： 1）所使用的项目管理过程 2）每个特定项目管理过程的实施程度 3）完成这些过程的工具和技术的描述 4）选择的项目的生命周期和相关的项目阶段 5）如何用选定的过程来管理具体的项目。包括过程之间的依赖于交互关系和基本的输入输出等 6）如何执行工作来完成项目目标 7）如何监督和控制变更 8）如何实施配置管理 9）如何维护项目绩效基线的完整性 10）与项目干系人进行沟通的要求和技术 11）为项目选择的生命周期模型。对于多阶段项目，要包括所定义阶段是如何划分的 12）为了解决某些遗留问题和未来的决策，对于其内容、严重程度和紧迫程度进行的关键管理评审“干系人登记册”属于项目文件，不是项目管理计划的一部分。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "19",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190604",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目管理计划的内容不包括（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191152",
+                "item_id": "190604",
+                "stem": "项目管理计划的内容不包括（  ）。",
+                "seq": 20,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "范围基准"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "过程改进计划"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "干系人管理计划"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "资源日历"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p>项目管理计划3+11+2</p>\n\n<p><img alt=\"\" src=\"https://sce2a4b5c8d1lu-sb-qn.qiqiuyun.net/files/course/2023/08-01/1659335290c7081791.png\" /></p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "20",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190605",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目管理计划不包括（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191153",
+                "item_id": "190605",
+                "stem": "项目管理计划不包括（）。",
+                "seq": 21,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "变更管理计划"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "变更日志"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "配置管理计划"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "范围基准"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "<p>项目管理计划基本构成。变更日志是项目文件。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "21",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190606",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目管理计划的内容不包括（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191154",
+                "item_id": "190606",
+                "stem": "项目管理计划的内容不包括（  ）。",
+                "seq": 22,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "范围管理计划与项目范围说明书"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "干系人管理计划与沟通管理计划"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "进度管理计划与进度基准"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "成本管理计划与成本绩效"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p>项目管理计划包括3个项目基准、11个项目管理子计划以及配置管理计划和变更管理计划。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "22",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190607",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于项目管理计划的描述，不正确的是（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191155",
+                "item_id": "190607",
+                "stem": "关于项目管理计划的描述，不正确的是（）。",
+                "seq": 23,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "项目管理计划必须是自上而下制定出来的"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "项目管理计划必须得到主要项目干系人的执行批准"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "其他规划过程的成果是项目管理计划制定的依据"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "项目管理计划可以指导项目的收尾工作"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "<p>项目管理计划必须是自下而上制定出来的（书上原话）</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "23",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190608",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于项目管理计划用途的描述，不正确的是：（ ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191156",
+                "item_id": "190608",
+                "stem": "关于项目管理计划用途的描述，不正确的是：（ ）。",
+                "seq": 24,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "明确项目，是项目启动的依据"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "为项目绩效考核和项目控制提供基准"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "记录制订项目计划所依据的假设条件"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "促进项目干系人之间的沟通"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "<p>项目管理计划的主要用途：<br />\n指导项目执行、监控和收尾；<br />\n为项目绩效考核和项目控制提供基准；<br />\n记录制定项目计划所依据的假设条件；<br />\n记录制定项目计划过程中的有关方案选择；<br />\n促进项目干系人之间的沟通；<br />\n规定管理层审查项目的时间、内容和方式。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "24",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190609",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（）不属于项目管理计划的内容。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191157",
+                "item_id": "190609",
+                "stem": "（）不属于项目管理计划的内容。",
+                "seq": 25,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "成本基准"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "WBS词典"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "进度数据"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "范围管理计划"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "<p>项目管理计划的内容。其中B属于范围基准的组成部分。<br /><img alt=\"175435b9d063709363.png\" height=\"182\" src=\"https://sce2a4b5c8d1lu-sb-qn.qiqiuyun.net/files/course/2022/01-14/175435b9d063709363.png\" width=\"299\" /></p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "25",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190610",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "指导与管理项目工作过程的输出不包括（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191158",
+                "item_id": "190610",
+                "stem": "指导与管理项目工作过程的输出不包括（  ）。",
+                "seq": 26,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "工作绩效数据"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "批准的变更请求"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "项目管理计划更新"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "项目文件更新"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "<p>指导与管理项目工作的输出：1、可交付成果；2、工作绩效数据；3、变更请求；4、项目管理计划更新；5、项目文件更新。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "26",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190611",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（ ）不属于指导与管理项目工作的输出。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191159",
+                "item_id": "190611",
+                "stem": "（ ）不属于指导与管理项目工作的输出。",
+                "seq": 27,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "批准的变更请求"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "工作绩效数据"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "可交付成果"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "项目管理计划更新"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "<p>指导与管理项目执行的输出包括：1、可交付成果；2、工作绩效数据；3、变更请求；4、项目管理计划更新；5、项目文件更新。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "27",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190612",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（ ） 的优点是考虑时间序列发展趋势，使预测结果能更好地符合实际。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191160",
+                "item_id": "190612",
+                "stem": "（ ） 的优点是考虑时间序列发展趋势，使预测结果能更好地符合实际。",
+                "seq": 28,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "因果分析"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "净值管理"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "回归分析"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "<p>趋势分析</p>\n"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p>趋势分析的主要优点是考虑时间序列发展趋势，使预测结果能更好地符合实际。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "28",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190613",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（ ）的过程是为实现项目目标而领导和执行项目管理计划中所确定的工作，实施已批准变更的过程。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191161",
+                "item_id": "190613",
+                "stem": "（ ）的过程是为实现项目目标而领导和执行项目管理计划中所确定的工作，实施已批准变更的过程。",
+                "seq": 29,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "制定项目管理计划"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "指导与管理项目工作"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "监控项目工作"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "实施整体变更控制"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "<p>指导与管理项目执行：为实现项目目标而执行项目管理计划中所确定的工作的过程，并实施已批准变更的过程。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "29",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190614",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（ ）是确定两种或两种以上变数间相互依赖的定量关系的一种统计分析方法。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191162",
+                "item_id": "190614",
+                "stem": "（ ）是确定两种或两种以上变数间相互依赖的定量关系的一种统计分析方法。",
+                "seq": 30,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "趋势分析"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "因果图"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "回归分析"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "帕累托图"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "<p>回归分析确定两种或两种以上变数相互依赖的定量关系的一种统计分析方法。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "30",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190615",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（）通常以开工会议(kick-off meeting)为开始标志。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191163",
+                "item_id": "190615",
+                "stem": "（）通常以开工会议(kick-off meeting)为开始标志。",
+                "seq": 31,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "指导与管理项目工作"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "制定项目章程"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "编制项目管理计划"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "编制进度管理计划"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "<p>开踢大会也称开工会议（Kick-off Meeting）在规划阶段结束时召开，是指导与管理项目执行开始的标志。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "31",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190616",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "配置管理和变更管理是项目管理中非常重要的组成部分，两者相比，配置管理重点关注(  )。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191164",
+                "item_id": "190616",
+                "stem": "配置管理和变更管理是项目管理中非常重要的组成部分，两者相比，配置管理重点关注(  )。",
+                "seq": 32,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "项目可交付成果及各个过程技术之间的匹配"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "识别、记录对项目文件的更改"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "批准或否决对项目文件的改变"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "对项目可交付成果或基准变更的记录"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "<p>配置控制重点关注可交付成果及各个过程的技术规范之间的匹配问题，而变更控制则着眼于识别、记录、批准或否决对项目文件、可交付成果或基准的变更。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "32",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190617",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（）指的是为确保项目工作的未来绩效符合项目管理计划而进行的有目的的活动。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191165",
+                "item_id": "190617",
+                "stem": "（）指的是为确保项目工作的未来绩效符合项目管理计划而进行的有目的的活动。",
+                "seq": 33,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "纠正措施",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "预防措施",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "缺陷补救",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "功能完善",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "指导与管理项目工作还须对项目历有变更的影响进行审查，并实施已批准的变更，活动包括：（1）纠正措施。为使项目工作绩效重新与项目管理计划不一致而进行的有目的的活动。（2）预防措施。为确保项目工作的未来绩效符合项目管理计划而进行的有目的的活动。（3）缺陷补救。为了修正不一致的产品或产品组件而进行的有目的的活动。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "33",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190618",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "以下关于项目整体变更控制过程的叙述中，不正确的是（）",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191166",
+                "item_id": "190618",
+                "stem": "以下关于项目整体变更控制过程的叙述中，不正确的是（）",
+                "seq": 34,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "实施整体变更控制过程的目的是为了降低项目风险",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "实施整体变更控制过程贯穿项目始终，并且应用于项目的各个阶段",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "变更控制委员会对整体变更控制过程负最终责任",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "会议是实施整体变更控制的工具与技术之一",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "项目经理对整体变更控制过程负最终责任。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "34",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190619",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "以下关于项目变更管理的叙述中不正确的是（）",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191167",
+                "item_id": "190619",
+                "stem": "以下关于项目变更管理的叙述中不正确的是（）",
+                "seq": 35,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目的任何干系人都可以提出变更请求",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "所有的变更请求都必须以书面形式记录",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "所有的变更请求都必须交由变更控制委员会审批",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "客户也可以作为变更控制委员会成员",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "每项记录在案的变更请求都必须由一位责任人批准或否决，这个责任人通常是项目发起人或项目经理。应该在项目管理计划或组织流程中指定这位责任人。必要时，应该由变更控制委员会（CCB）来决策是否实施整体变更控制过程。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "35",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190620",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（  ）是为了修正不一致的产品或产品组件而进行的有目的的活动。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191168",
+                "item_id": "190620",
+                "stem": "（  ）是为了修正不一致的产品或产品组件而进行的有目的的活动。",
+                "seq": 36,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "纠正措施"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "预防措施"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "缺陷补救"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "产品更新"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "<p>缺陷补救 Defect repair，修正缺陷的产品或组件。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "36",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190621",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于项目整体变更的描述，不正确的是：（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191169",
+                "item_id": "190621",
+                "stem": "关于项目整体变更的描述，不正确的是：（  ）。",
+                "seq": 37,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "整体变更控制过程贯穿项目始终"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "任何项目干系人都可以提出变更请求"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "所有变更都应纳入变更管理"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "所有变更请求都应由CCB来批准或否决"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p>某些特定的变更求，在CCB批准后还可能需要得到客户或发起人的批准，除非他们本来就是CCB的成员。不涉及基线的变更可以由项目经理决定。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "37",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190622",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于整体变更控制的描述，不正确的是（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191170",
+                "item_id": "190622",
+                "stem": "关于整体变更控制的描述，不正确的是（）。",
+                "seq": 38,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "项目的任何干系人都可以提出变更请求"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "项目经理可以是变更控制委员会(CCB) 的成员"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "整体变更控制过程贯穿项目始终，CCB对此负最终责任"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "整体变更控制的主要作用是降低因未考虑变更对整个项目计划的影响而产生的风险"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "<p>实施整体变更控制过程贯穿项目始终，并且应用于项目的各个阶段。项目经理对此负最终责任。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "38",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190623",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "整体变更控制的工具与技术不包括（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191171",
+                "item_id": "190623",
+                "stem": "整体变更控制的工具与技术不包括（  ）。",
+                "seq": 39,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "专家判断"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "实验设计"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "会议"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "配置管理工具"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "<p>中级书上只有会议和变更控制工具，高级书上多了专家判断。变更控制工具需要支持以下配置管理活动（PMBOK6.0定义）：1、识别配置项；2、记录并报告配置项状态；3、进行和配置项的核实与审计。以上这些活动均属于配置管理工具的内容。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "39",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190624",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（ ）不属于实施已批准变更的活动",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191172",
+                "item_id": "190624",
+                "stem": "（ ）不属于实施已批准变更的活动",
+                "seq": 40,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "纠正措施"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "预防措施"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "缺陷补救"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "影响分析"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p>批准的变更请求包括：<br />\n纠正措施：为使项目工作绩效重新与项目管理计划一致而进行的有目的的活动<br />\n预防措施：为确保项目工作的未来绩效符合项目管理计划而进行的有目的的活动<br />\n缺陷补救：为了修正不一致的产品后产品组件而进行的有目的的活动</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "40",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190625",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">在项目进行过程中，变更控制委员会要求项目必须采用市场上刚出现的一种新技术，并且要求按时交付。项目经理应该更新的第一份文件是</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">（</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\">   <font face=\"微软雅黑\">）</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">。</font></span></span></span></span></p>\n",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191173",
+                "item_id": "190625",
+                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">在项目进行过程中，变更控制委员会要求项目必须采用市场上刚出现的一种新技术，并且要求按时交付。项目经理应该更新的第一份文件是</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">（</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\">   <font face=\"微软雅黑\">）</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">。</font></span></span></span></span></p>\n",
+                "seq": 41,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">项目管理计划</font></span></span></span></span></p>\n"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">质量管理计划</font></span></span></span></span></p>\n"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">成本管理计划</font></span></span></span></span></p>\n"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">项目进度表</font></span></span></span></span></p>\n"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">制订项目管理计划是确定、准备、集成以及协调所有分子计划，包含了</font>BCD3个子计划。</span></span></span></span></p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "41",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190626",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">项目整体变更控制管理的流程是：变更请求</font>→</span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">（</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\">   <font face=\"微软雅黑\">）</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">。</font></span></span></span></span></p>\n",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191174",
+                "item_id": "190626",
+                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">项目整体变更控制管理的流程是：变更请求</font>→</span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">（</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\">   <font face=\"微软雅黑\">）</font></span></span><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">。</font></span></span></span></span></p>\n",
+                "seq": 42,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">同意或否决变更</font>→变更影响评估→执行</span></span></span></span></p>\n"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">执行变更</font>→变更影响评估→同意或否决变更</span></span></span></span></p>\n"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">变更影响评估</font>→同意或否决变更→执行</span></span></span></span></p>\n"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">同意或否决变更</font>→执行→变更影响评估</span></span></span></span></p>\n"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:Calibri;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'微软雅黑';\"><font face=\"微软雅黑\">简化的变更流程。</font></span></span></span></span></p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "42",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190627",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "以下关于整体变更控制的叙述中，不正确的是：（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191175",
+                "item_id": "190627",
+                "stem": "以下关于整体变更控制的叙述中，不正确的是：（  ）。",
+                "seq": 43,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "一个未知风险发生影响到项目进度时，需要进行整体变更分析",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "未经批准的变更请求不需要在变更日志中记录",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "变更请求可以口头提出，但要以书面形式记录",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "变更请求在CCB批准后，还可能需要得到客户或发起人的批准",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "未经批准的变更请求也需要在变更日志中记录。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "43",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190628",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": " 在项目变更管理中，变更影响分析一般由（）负责。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191176",
+                "item_id": "190628",
+                "stem": " 在项目变更管理中，变更影响分析一般由（）负责。",
+                "seq": 44,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "变更申请提出者",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "变更管理员",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "变更控制委员会",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目经理",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "项目经理在接到变更申请以后，首先要检查变更申请中需要填写的内容是否完备，然后对变更申请进行影响分析。变更影响分析由项目经理负责，项目经理可以自己或指定人员完成，也可以召集相关人员讨论完成。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "44",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190629",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "<p>下图是变更控制管理流程图，该流程图缺少（ ）。<br /><img alt=\"175435b9d80f550317.png\" height=\"166\" src=\"https://sce2a4b5c8d1lu-sb-qn.qiqiuyun.net/files/course/2022/01-14/175435b9d80f550317.png\" width=\"235\" /></p>\n",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191177",
+                "item_id": "190629",
+                "stem": "<p>下图是变更控制管理流程图，该流程图缺少（ ）。<br /><img alt=\"175435b9d80f550317.png\" height=\"166\" src=\"https://sce2a4b5c8d1lu-sb-qn.qiqiuyun.net/files/course/2022/01-14/175435b9d80f550317.png\" width=\"235\" /></p>\n",
+                "seq": 45,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "评估影响记录"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "配置审计"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "变更定义"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "记录变更实施情况"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p><img alt=\"\" src=\"https://sce2a4b5c8d1lu-sb-qn.qiqiuyun.net/files/course/2023/08-01/16410958ee76146540.png\" /></p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": true,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "45",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190630",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "在项目执行的过程中，一名干系人确定了一个新需求，该需求对项目是否成功起到关键的作用，项目经理接下来应该（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191178",
+                "item_id": "190630",
+                "stem": "在项目执行的过程中，一名干系人确定了一个新需求，该需求对项目是否成功起到关键的作用，项目经理接下来应该（）。",
+                "seq": 46,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "为该需求建立变更请求，提交给变更控制委员会审批",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "评估重要性，以确定是否执行变更流程",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "寻求项目发起人对变更的批准",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "考虑该需求比较关键，安排相关人员进行修改",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "基准变更，要走变更流程。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "46",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190631",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目执行过程中，客户要求对项目范围进行修改。项目经理首先应该（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191179",
+                "item_id": "190631",
+                "stem": "项目执行过程中，客户要求对项目范围进行修改。项目经理首先应该（  ）。",
+                "seq": 47,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "向CCB提交正式的变更请求"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "通知客户在项目进展过程中不可以进行范围修改"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "重写项目计划添加新的需求并实施"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "听取高级管理层关于预算和资源计划的建议"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "<p>变更控制管理流程，首先提出变更请求。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "47",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190632",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "正确的变更控制管理流程是（ ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191180",
+                "item_id": "190632",
+                "stem": "正确的变更控制管理流程是（ ）。",
+                "seq": 48,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "变更请求→CCB审批（同意）→评估影响→执行变更→分发新文档→记录变更实施情况"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "变更请求→评估影响→CCB审批（同意）→分发新文档→执行变更→记录变更实施情况"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "变更请求→CCB审批（同意）→执行变更→评估影响→记录变更实施情况→分发新文档"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "变更请求→评估影响→CCB审批（同意）→执行变更→记录变更实施情况→分发新文档"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p><img alt=\"\" src=\"https://sce2a4b5c8d1lu-sb-qn.qiqiuyun.net/files/course/2023/08-01/164233937f87962823.png\" /></p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "48",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190633",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "某软件项目执行过程中，客户希望增加几项小功能，开发人员认为很容易实现，作为项目经理首先应该（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191181",
+                "item_id": "190633",
+                "stem": "某软件项目执行过程中，客户希望增加几项小功能，开发人员认为很容易实现，作为项目经理首先应该（  ）。",
+                "seq": 49,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "安排开发人员进行修改",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "发起变更申请",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "建议客户增加预算",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "获得管理层的同意",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "所有的变更必须遵循整体变更控制流程来执行，无论有任何的变更，都应该先提交变更申请。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "49",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190634",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于变更控制委员会（CCB）的描述，不正确的是（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191182",
+                "item_id": "190634",
+                "stem": "关于变更控制委员会（CCB）的描述，不正确的是（  ）。",
+                "seq": 50,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "CCB的成员可能包括客户或项目经理的上级领导"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "一般来说，项目经理会担任CCB的组长"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "针对某些变更，除了CCB批准以外，可能还需要客户批准"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "针对可能影响项目目标的变更，必须经过CCB批准"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "<p>项目经理可以是CCB成员之一，但通常不是组长。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "50",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190635",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "在项目实施过程中，用户的环境（业务环境、组织架构等）可能会发生变化，对项目的需求可能也会发生变化。针对项目范围变化的需求，（  ）是真正具备批准权力的人。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191183",
+                "item_id": "190635",
+                "stem": "在项目实施过程中，用户的环境（业务环境、组织架构等）可能会发生变化，对项目的需求可能也会发生变化。针对项目范围变化的需求，（  ）是真正具备批准权力的人。",
+                "seq": 51,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "用户"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "项目经理"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "变更控制委员会（CCB）"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "项目投资人"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "<p>对于可能影响项目目标的变更（涉及基线的变更），必须经过CCB的批准才能实施。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "51",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190636",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于实施整体变更控制的描述，不正确的是（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191184",
+                "item_id": "190636",
+                "stem": "关于实施整体变更控制的描述，不正确的是（）。",
+                "seq": 52,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "项目经理对实施整体变更过程负最终责任"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "如遇特殊情况，变更请求可以口头提出"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "变更日志用来记录项目过程中出现的变更"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "项目经理不可以加入变更控制委员会"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p>变更控制委员会是由主要项目干系人的代表所组成的一个小组，项目经理可以是其中的成员之一，但通常不是组长。该委员会负责审查变更请求，批准或否决这些变更请求。对于可能影响项目目标的变更，必须经过变更控制委员会的批准才能实施。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "52",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190637",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（）不属于项目验收的内容。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191185",
+                "item_id": "190637",
+                "stem": "（）不属于项目验收的内容。",
+                "seq": 53,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "验收测试",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "系统维护工作",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目终验",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "系统试运行",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "系统集成项目在验收阶段主要包含以下四方面的工作内容，分别是验收测试、系统试运行、系统文档验收以及项目终验。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "53",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190638",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "信息系统集成项目完成验收后要进行一个综合性的项目后评估,评估的内容一般包括（   ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191186",
+                "item_id": "190638",
+                "stem": "信息系统集成项目完成验收后要进行一个综合性的项目后评估,评估的内容一般包括（   ）。",
+                "seq": 54,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "系统目标评价、系统质量评价、系统技术评价、系统可持续性评价",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "系统社会效益评价、系统过程评价、系统技术评价、系统可用性评",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "系统目标评价、系统过程评价、系统效益评价、系统可持续性评价",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "系统责任评价、系统环境影响评价、系统效益评价、系统可持续性评价",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "主要评价内容：1.信息系统目标评价2.信息系统过程评价3.信息系统效益评价，包括：信息系统技术评价、信息系统经济效益评价、信息系统管理效益评价、信息系统社会效益评价、信息系统环境影响评价；4.信息系统可持续性评价",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "54",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190639",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于项目收尾的描述，不正确的是：（ ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191187",
+                "item_id": "190639",
+                "stem": "关于项目收尾的描述，不正确的是：（ ）。",
+                "seq": 55,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "项目收尾分为管理收尾和合同收尾"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "管理收尾和合同收尾都要进行产品核实，都要总结经验教训"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "每个项目阶段结束时都要进行相应的管理收尾"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "对于整个项目而言，管理收尾发生在合同收尾之前"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p>管理收尾又叫行政收尾，从整个项目说，合同收尾发生在行政收尾之前；如果是以合同形式进行的项目，在收尾阶段，先要进行采购审计和合同收尾，然后进行行政收尾。项目总结属于项目收尾的管理收尾。而管理收尾有时又被称为行政收尾，就是检查项目团队成员及相关干系人是否按规定履行了所有职责。</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "55",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "190640",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目行政收尾产生的结果不包括（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "191188",
+                "item_id": "190640",
+                "stem": "项目行政收尾产生的结果不包括（）。",
+                "seq": 56,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "完整的项目档案"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "项目管理计划"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "资源释放"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "经验教训总结"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "<p>行政收尾的主要工作包括：1、产品核实：是否按项目产品既定的要求完成。2、财务收尾：支付最后的项目款项，完成财务结算3、更新项目记录：完成最终的项目绩效报告和项目团队成员的业绩记录。4、总结经验教训，进行项目完工后评价。5、进行组织过程资产更新。<br />\n6、结束项目干系人在项目上的关系，解散项目团队</p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "56",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216701",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于项目章程的描述，不正确的（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783652",
+                "item_id": "216701",
+                "stem": "关于项目章程的描述，不正确的（  ）。",
+                "seq": 57,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目章程通常由高级管理层签发",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目章程是项目经理寻求主要干系人支持的依据",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "当项目出现变更时，应对项目章程进行修改",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目章程遵循“谁签发，谁有权修改”的原则上制定的",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "项目章程所规定的是一些比较大的、原则性的问题，通常不会因项目变更而对项目章程进行修改。当项目目标发生变化，需要对项目章程进行修改时，只有管理层和发起人有权进行变更，项目经理对项目章程的修改不在其权责范围之内。项目章程遵循“谁签发，谁有权修改”<br />的原则。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "57",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216702",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于项目管理计划的描述，不正确的是（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783653",
+                "item_id": "216702",
+                "stem": "关于项目管理计划的描述，不正确的是（  ）。",
+                "seq": 58,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目管理计划是在其他规划过程的结果的基础上制定的",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目管理计划确定项目的执行、监控和收尾方式",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目管理计划可以是概况的，也可以是详细的，可以包含一个或多个辅助计划",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目管理计划使用到的项目文件如变更日志等，均属于项目管理计划",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "项目管理计划是用于管理项目的主要文件之一，同时使用其他项目文件。这些其他文件不属于项目管理计划。在项目工作中，实际上需要两种计划，即关于技术工作的计划和关于管理工作的计划。但需要明确的是项目文件会影响项目管理工作，但不属于项目管理计划，除了极少数非文件类的成果（如确认的可交付成果、验收的可交付成果等）以及属于项目管理计划的内容以外，在项目管理过程中所产生的项目文件（如工作绩效报告、变更日志等）都是项目文件的组成部分。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "58",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216703",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（  ）是使项目工作绩效重新与项目管理计划一致而进行的有目的的活动。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783654",
+                "item_id": "216703",
+                "stem": "（  ）是使项目工作绩效重新与项目管理计划一致而进行的有目的的活动。",
+                "seq": 59,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "纠正措施",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "预防措施",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "缺陷补救",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "更新",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "纠正措施：为使项目工作绩效重新与项目管理计划一致而进行的有目的的活动。当项目绩效发生了某种不能接受的实际偏差时，采取纠偏行动来把将来的项目绩效拉回到项目计划的要求上来。纠正措施是针对实际已经出现的偏差。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "59",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216704",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（  ）用于检查项目的绩效随时间的变化情况，以确定绩效是在改善还是恶化。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783655",
+                "item_id": "216704",
+                "stem": "（  ）用于检查项目的绩效随时间的变化情况，以确定绩效是在改善还是恶化。",
+                "seq": 60,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "分组方法",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "根本原因分析",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "趋势分析",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "故障树分析",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "趋势分析法又称趋势预测法，用于检查项目绩效随时间的变化情况，以确定绩效是在改善还是在恶化。具体包括：趋势平均法、指数平滑法、直线趋势法、非直线趋势法。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "60",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216705",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于项目整体变更控制的描述，正确的是（  ）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783656",
+                "item_id": "216705",
+                "stem": "关于项目整体变更控制的描述，正确的是（  ）。",
+                "seq": 61,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目整体变更控制过程只用于项目的执行和监控阶段",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "只有客户或项目管理人员才能提出变更申请",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "每项记录在案的变更请求都必须由一位责任人批准或否决",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "CCB对变更请求的审批结果不可更改",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "A：实施整体变更控制过程贯穿项目始终，并且应用于项目的各个阶段。<br />B：项目的任何干系人都可以提出变更请求。<br />C：每项记录在案的变更请求都必须由一位责任人批准或否决，这个责任人通常是项目发起人或项目经理。<br />D：某些特定的变更请求，在CCB批准之后还可能需要得到客户或发起人的批准，除非他们本来就是CCB的成员。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "61",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216706",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "当项目各要素之间需要协调的，应进行项目（），在项目的竞争目标中寻找最佳平衡点。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783657",
+                "item_id": "216706",
+                "stem": "当项目各要素之间需要协调的，应进行项目（），在项目的竞争目标中寻找最佳平衡点。",
+                "seq": 62,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "风险分析         ",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "整体管理          ",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "范围管理          ",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "质量管理",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "项目整体管理是项目管理的核心，是为了实现项目各要素之间的相互协调，并在相互矛盾、相互竞争的目标中寻找最佳平衡点。之所以需要整体管理，是因为项目的结合部最容易出问题。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "62",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216707",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（ ）不属于项目章程的内容。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783658",
+                "item_id": "216707",
+                "stem": "（ ）不属于项目章程的内容。",
+                "seq": 63,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目零风险",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "总体里程碑进度计划",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目审批要求",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "需求跟踪矩阵",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "项目章程的制订主要关注记录商业需求项目论证、对顾客需求的理解和满足这些需求的新产品、服务或输出。主要内容包括<br />（1）概括性的项目描述和项目产品描述。<br />（2）项目目的或批准项目的理由，即为什么要做这个项目。<br />（3）项目的总体要求，包括项目的总体范围和总体质量要求。<br />（4）可测量的项目目标和相关的成功标准。<br />（5）项目的主要风险，如项目的主要风险类别。<br />（6）总体里程碑进度计划。<br />（7）总体预算。<br />（8）项目的审批要求，即在项目的规划执行、监控和收尾过程中，应该由谁来做出哪种批准。<br />（9）委派的项目经理及其职责和职权。<br />（10）发起人或其他批准项目章程的人员的姓名和职权。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "63",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216708",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目管理计划的输入不包括（）",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783659",
+                "item_id": "216708",
+                "stem": "项目管理计划的输入不包括（）",
+                "seq": 64,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目章程",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "其它规划过程的输出",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "工作绩效",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "组织过程资产",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "制定项目管理计划的输入：1.项目章程；2.其他过程的输出；3.组织过程资产；4.事业环境因素。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "64",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216709",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "指导与管理项目工作过程的输出包括（）。<br />①可交付成果 ②工作绩效数据 ③批准的变更请求 ④项目文件更新",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783660",
+                "item_id": "216709",
+                "stem": "指导与管理项目工作过程的输出包括（）。<br />①可交付成果 ②工作绩效数据 ③批准的变更请求 ④项目文件更新",
+                "seq": 65,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "①③④",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "①②④",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "②③④",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "①②③",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "指导与管理项目工作过程的输出：1.可交付成果；2.工作绩效数据；3.变更请求；4.项目管理计划更新；5.项目文件更新。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "65",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216710",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（）不能用于进行根本原因分析。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783661",
+                "item_id": "216710",
+                "stem": "（）不能用于进行根本原因分析。",
+                "seq": 66,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "力场分析",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "因果图",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "头脑风暴法",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "鱼骨图",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "根本原因分析（RCA）是一项结构化的问题处理法，用以逐步找出问题的根本原因并加以解决，而不是仅仅关注问题的表征。根本原因分析是一个系统化的问题处理过程，包括确定和分析问题原因，找出问题解决办法，并制定问题预防措施。在组织管理领域内，根本原因分析能够帮助利益相关者发现组织问题的症结并找出根本性的解决方案。<br />所谓根本原因，就是导致我们所关注的问题发生的最基本的原因。因为引起问题的原因通常有很多，物理条件、人为因素、系统行为或者流程因素等，通过科学分析，有可能发现不止一个根源性原因。根本原因分析法的目的就是要要努力找出问题的作用因素，并对所有的原因进行分析。常用根本原因分析的工具有：因果图、头脑风暴法、因果分析（鱼骨图）等。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "66",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216711",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "在开始（）的活动之前，要制定组织的业务要求文件，确定新项目的可行性并描述项目的目标，连同可交付物在内，形成工作说明书。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783662",
+                "item_id": "216711",
+                "stem": "在开始（）的活动之前，要制定组织的业务要求文件，确定新项目的可行性并描述项目的目标，连同可交付物在内，形成工作说明书。",
+                "seq": 67,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "启动过程组",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "计划编制过程组",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "执行过程组",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "监督与控制过程组",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "工作说明书是整体管理的制定项目章程过程的输入，制定项目章程属于启动过程组。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "67",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216712",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于项目整体管理的描述，不正确的是：（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783663",
+                "item_id": "216712",
+                "stem": "关于项目整体管理的描述，不正确的是：（）。",
+                "seq": 68,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "应由公司管理者担任整体管理的整合者角色，便于协调资源",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "工作内容包含跟踪、审查和报告项目进展并监控项目工作",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "包括选择资源分配方案，平衡相关相互竞争的目标和方案等工作",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "是项目管理中一项综合性和全局性的管理工作",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "整合者是项目经理承担的重要角色之一，他要通过沟通来协调，通过协调来整合。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "68",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216713",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目章程用来体现（）对项目的原则性要求，是项目经理寻求（）支持的依据。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783664",
+                "item_id": "216713",
+                "stem": "项目章程用来体现（）对项目的原则性要求，是项目经理寻求（）支持的依据。",
+                "seq": 69,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "高级管理层  已识别干系人",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "各主要干系人  项目团队",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "高级管理层  各主要干系人",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "已识别千系人  高级管理层",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "项目章程用来体现高级管理层对项目的原则性要求，授权项目经理为实施项目而动用组织资源。项目章程是项目经理寻求各主要干系人支持的依据。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "69",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216714",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "在项目执行过程中，不属于项目管理计划的是：（）。<br />①供方选择标准  ②范围基准  ③风险管理计划  ④工作绩效报告  ⑤需求跟踪矩阵  ⑥干系人登记册",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783665",
+                "item_id": "216714",
+                "stem": "在项目执行过程中，不属于项目管理计划的是：（）。<br />①供方选择标准  ②范围基准  ③风险管理计划  ④工作绩效报告  ⑤需求跟踪矩阵  ⑥干系人登记册",
+                "seq": 70,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "val": "A",
+                            "text": "①②④⑤"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "B",
+                            "text": "②③④⑥"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "C",
+                            "text": "②④⑤⑥"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "val": "D",
+                            "text": "①④⑤⑥"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "<p><img alt=\"\" src=\"https://sce2a4b5c8d1lu-sb-qn.qiqiuyun.net/files/course/2023/08-01/162835376119318024.png\" /></p>\n",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "70",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216715",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "不属于“整体变更控制”过程输出的是：（）。<br />①工作绩效报告  ②项目质量管理计划  ③变更请求  ④变更日志  ⑤项目进度网络图更新",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783666",
+                "item_id": "216715",
+                "stem": "不属于“整体变更控制”过程输出的是：（）。<br />①工作绩效报告  ②项目质量管理计划  ③变更请求  ④变更日志  ⑤项目进度网络图更新",
+                "seq": 71,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "①②③",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "②③④",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "③④⑤",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "①③⑤",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "实施整体变更控制的输出包括：批准的变更请求、变更日志、项目管理计划更新、项目文件更新。<br />①②③是输入（项目质量管理计划属于项目管理计划的组成）；⑤项目进度网络图更新属于项目文件更新。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "71",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216716",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（）是项目发起人或高级管理层给项目经理签发项目阶段结束或整体结束的书面确认。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783667",
+                "item_id": "216716",
+                "stem": "（）是项目发起人或高级管理层给项目经理签发项目阶段结束或整体结束的书面确认。",
+                "seq": 72,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "合同收尾",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "行政收尾",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "财务收尾",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "采购收尾",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "行政收尾要由项目发起人或高级管理层给项目经理签发项目阶段结束或项目整体结束的书面确认，而合同收尾则要由负责采购管理成员（可能是项目经理或其他人）向卖方签发合同结束的书面确认。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "72",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216717",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "The project（ ）processes include: develop project charter， develop project management plan，direct and manage project work，manage project knowledge，monitor and control project work，perform integrated change control and close project or phase.",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783668",
+                "item_id": "216717",
+                "stem": "The project（ ）processes include: develop project charter， develop project management plan，direct and manage project work，manage project knowledge，monitor and control project work，perform integrated change control and close project or phase.",
+                "seq": 73,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "integration management",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "scope management",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "schedule management",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "resource management",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "项目（）过程包括：制定项目章程、制定项目管理计划、指导和管理项目工作、管理项目知识、监督和控制项目工作、执行综合变更控制和关闭项目或阶段。<br />A，整合管理  B，范围管理  C，进度管理  D，资源管理",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "73",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216718",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目人力资源管理、风险管理、采购管理在（）协调下实现项目目标。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783669",
+                "item_id": "216718",
+                "stem": "项目人力资源管理、风险管理、采购管理在（）协调下实现项目目标。",
+                "seq": 74,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "成本管理",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "范围管理",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "进度管理",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "整体管理",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "项目整体管理包括为识别、定义、组合、统一和协调各项目管理过程组的各种过程和活动而开展的工作，是项目管理中一项综合性和全局性的管理工作。整体管理就是要决定在什么时间把工作量分配到相应的资源上，有哪些潜在的问题并在其出现问题之前积极处理，以及协调各项工作使项目整体上取得一个好的结果。项目整体管理包括选择资源分配方案、平衡相互竞争的目标和方案，以及协调项目管理各知识领域之间的依赖关系。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "74",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216719",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "项目章程的作用不包括（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783670",
+                "item_id": "216719",
+                "stem": "项目章程的作用不包括（）。",
+                "seq": 75,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "确定项目经理人选",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "给予项目合法地位",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "识别项目主要干系人",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "确定项目总体目标",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "项目章程的作用：<br />（1）确定项目经理，规定项目经理的权力。<br />（2）正式确认项目的存在，给项目一个合法的地位。<br />（3）规定项目的总体目标，包括范围、时间、成本和质量等。<br />（4）通过叙述启动项目的理由，把项目与执行组织的日常经营运作及战略计划等联系起来。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "75",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216720",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（）不属于制定项目管理计划的输入。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783671",
+                "item_id": "216720",
+                "stem": "（）不属于制定项目管理计划的输入。",
+                "seq": 76,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "人事管理制度",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "成本管理计划",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "经验教训知识库",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "风险应对计划",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "制定项目管理计划的输入：项目章程、其他规划过程的输出、组织过程资产、事业环境因素。<br />A属于事业环境因素，B属于其他规划过程的输出，C属于组织过程资产。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "76",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216721",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（）不属于整体变更控制过程的活动。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783672",
+                "item_id": "216721",
+                "stem": "（）不属于整体变更控制过程的活动。",
+                "seq": 77,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "记录变更申请的所有影响",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "审查和批准变更申请",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "明确缺陷修复的标准",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "验证缺陷修复的正确性",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "根据项目的完成情况具有不同的详细程度，整体变更控制过程包括下列变更活动：<br />（1）识别可能发生和已经发生的变更。<br />（2）影响整体变更控制的相关因素，确保只有已批准的变更才能被实施。<br />（3）评审并批准变更申请。<br />（4）通过规范化的变更申请流程来管理已批准的变更。<br />（5）管理基线的完备性，确保只有已批准的变更才能被集成到项目的产品或服务中，并对变更的配置和计划文档进行维护。<br />（6）评审并审批所有书面的纠正措施和预防措施。<br />（7）根据已批准的变更，控制并更新项目的范围、成本、预算、进度和质量需求，变更要从整个项目的高度上进行协调。<br />（8）要记录变更申请的所有影响。<br />（9）验证缺陷修复的正确性。<br />（10）基于质量报告控制项目质量使其符合标准。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "77",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216722",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于“结束项目或阶段”的描述，不正确的是：（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783673",
+                "item_id": "216722",
+                "stem": "关于“结束项目或阶段”的描述，不正确的是：（）。",
+                "seq": 78,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "本阶段要确保可交付成果完成验收",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "支付项目款项，完成财务结算",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目结束，解散项目团队",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "行政收尾在整体项目结束后进行",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "当项目结束或项目提前终止时，又或项目每个阶段结束时需要开展行政收尾工作。行政收尾阶段主要工作包括：<br />（1）产品核实。确认全部工作都按项目产品的既定要求完成了。<br />（2）财务收尾。支付最后的项目款项，完成财务结算。<br />（3）更新项目记录。完成最终的项目绩效报告和项目团队成员的业绩记录。<br />（4）总结经验教训，进行项目完工后评价。<br />（5）进行组织过程资产更新。收集、整理和归档各种项目资料。<br />（6）结束项目干系人在项目上的关系，解散项目团队。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "78",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216723",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于项目整体管理相关内容的描述，不正确的是：（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783674",
+                "item_id": "216723",
+                "stem": "关于项目整体管理相关内容的描述，不正确的是：（）。",
+                "seq": 79,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目经理通过协调工作，达到各种需求间的平衡，实现项目整合",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目整体管理要协调各知识领域之间的关系",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "遵循 “谁使用，谁修改” 的原则，项目章程由项目经理修改完善",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目整体管理实现项目目标的综合最优",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "项目章程所规定的是一些比较大的、原则性的问题，通常不会因项目变更而对项目章程进行修改。当项目目标发生变化，需要对项目章程进行修改时，只有管理层和发起人有权进行变更，项目经理对项目章程的修改不在其权责范围之内。项目章程遵循“谁签发，谁有权修改”的原则。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "79",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216724",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "制定项目章程不需要参照（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783675",
+                "item_id": "216724",
+                "stem": "制定项目章程不需要参照（）。",
+                "seq": 80,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目说明书",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目里程碑",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "商业论证",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "战略计划",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "B"
+                ],
+                "analysis": "制定项目章程的输入：协议（合同、备忘录、意向书及协议等）、项目工作说明书、商业论证、组织过程资产、事业环境因素。<br />D选项战略计划是项目工作说明书的内容。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "80",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216725",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于项目管理计划的描述，不正确的是：（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783676",
+                "item_id": "216725",
+                "stem": "关于项目管理计划的描述，不正确的是：（）。",
+                "seq": 81,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目管理计划包括项目范围说明书与质量测量指标",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目管理计划包括项目所选用的生命周期模型",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目管理计划包括范围基准、进度基准、成本基准",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目管理计划可以是概括的，也可以是详细的",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "A"
+                ],
+                "analysis": "项目范围说明书是范围基准的组成部分，3大基准都是项目管理计划的内容；质量测量指标不属于质量管理计划以及过程改进计划的内容，不是项目管理计划的内容。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "81",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216726",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "关于变更控制管理流程的描述，不正确的是：（）。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783677",
+                "item_id": "216726",
+                "stem": "关于变更控制管理流程的描述，不正确的是：（）。",
+                "seq": 82,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "项目的任何干系人都可以提出变更请求",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "每项记录在案的变更请求都必须由一位负责人批准或否决",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "CCB 的成员不包括项目发起人和客户",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "CCB 审核不通过的变更申请可以被取消",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "C"
+                ],
+                "analysis": "项目的任何干系人都可以提出变更请求。尽管可以口头提出，但所有变更请求都必须以书面形式记录，并纳入变更管理以及配置管理系统中。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "82",
+        "score": "1.0",
+        "section_id": "386970"
+    },
+    {
+        "id": "216727",
+        "bank_id": "72",
+        "type": "single_choice",
+        "material": "（）是由项目发起人或高层管理者给项目经理签发项目阶段结束或项目整体结束的书面确认。",
+        "analysis": "",
+        "category_id": "1518",
+        "difficulty": "normal",
+        "question_num": "1",
+        "questions": [
+            {
+                "id": "1642783678",
+                "item_id": "216727",
+                "stem": "（）是由项目发起人或高层管理者给项目经理签发项目阶段结束或项目整体结束的书面确认。",
+                "seq": 83,
+                "score": 1,
+                "answer_mode": "single_choice",
+                "response_points": [
+                    {
+                        "radio": {
+                            "text": "合同收尾",
+                            "val": "A"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "项目经验总结",
+                            "val": "B"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "产品验收",
+                            "val": "C"
+                        }
+                    },
+                    {
+                        "radio": {
+                            "text": "行政收尾",
+                            "val": "D"
+                        }
+                    }
+                ],
+                "answer": [
+                    "D"
+                ],
+                "analysis": "行政收尾要由项目发起人或高级管理层给项目经理签发项目阶段结束或项目整体结束的书面确认，而合同收尾则要由负责采购管理成员（可能是项目经理或其他人）向卖方签发合同结束的书面确认。",
+                "attachments": [],
+                "isDelete": 0
+            }
+        ],
+        "includeImg": false,
+        "attachments": [],
+        "isDelete": 0,
+        "seq": "83",
+        "score": "1.0",
+        "section_id": "386970"
+    }
+  ]
+}
